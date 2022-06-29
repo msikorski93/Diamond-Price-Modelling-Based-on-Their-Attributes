@@ -1,0 +1,2 @@
+# Diamond-Price-Modelling-Based-on-Their-Attributes
+The purpose of this notebook is to develop an automated function to predict the price of a diamond based on its given features (cut, color, dimensions, etc.). We will create a machine learning model which can estimate these values. We need to find continuous data, so we will perform a regression task. We will use supervised learning to find the prices.
